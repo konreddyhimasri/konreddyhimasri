@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi, I'm Himasri Konreddy</h1>
-<h3 align="center">Aspiring Software Developer | Data Science Enthusiast | Final Year CSE @Geethanjali College of Engineering and Technology</h3>
+<h3 align="center">Aspiring Software Developer | Data Science Enthusiast | 
+  Final Year CSE @Geethanjali College of Engineering and Technology</h3>
 
 ---
 
@@ -104,3 +105,6 @@
 - 📧 konreddyhimasri@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/konreddy-himasri)  
 - 💻 [GitHub](https://github.com/konreddyhimasri)
+
+⭐️ If you like my work, feel free to [star this repo](https://github.com/konreddyhimasri/konreddyhimasri)!
+
