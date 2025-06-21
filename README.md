@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Himasri Konreddy</h1>
-<h3 align="center">Aspiring Software Developer | Data Science Enthusiast | Final Year CSE @ Geethanjali College</h3>
+<h1 align="center">Hi, I'm Himasri Konreddy</h1>
+<h3 align="center">Aspiring Software Developer | Data Science Enthusiast | Final Year CSE @ Geethanjali College of Engineering and Technology</h3>
 
 ---
 
-🎯 Currently preparing for **placements**  
+🎯 Currently preparing for **Placements**  
 💡 Passionate about applying AI/ML and programming to solve real-world problems  
 💬 Open to **Internships**, **Full-time SDE**, or **Data Science roles**
 
@@ -12,7 +12,7 @@
 
 ## 💼 About Me
 
-- 🎓 Final year B.Tech CSE student (CGPA: 9.22)
+- 🎓 Final year B.Tech CSE student (CGPA: 9.22 Till 3-1)
 - 💻 Skilled in Python, Java, C, SQL, HTML, CSS, JavaScript
 - 📊 Experienced in **Machine Learning**, **Data Science**, and **Python Development**
 - 🛠️ Built several academic & internship projects across **Web**, **ML**, and **Automation**
@@ -56,8 +56,8 @@
 *B.Tech in Computer Science* – CGPA: **9.22**  
 *Expected Graduation:* July 2026
 
-**Sri Chaitanya Junior College, Hyderabad** – GPA: **9.82**  
-**Sri Chaitanya High School (CBSE), Hyderabad** – GPA: **93%**
+**Sri Chaitanya Junior College, Hyderabad** – Percentage: **98.2%**  
+**Sri Chaitanya High School (CBSE), Hyderabad** – Percentage: **93%**
 
 ---
 
@@ -72,10 +72,10 @@
 
 ## 📜 Certifications
 
+- Certified System Administrator & Application Developer – ServiceNow 
 - Smart Coder (DSA) – Smart Interviews  
 - Python Zero to Hero – GUVI  
 - Advanced Java – Oracle Academy  
-- Certified System Admin & App Developer – ServiceNow  
 - Web Development – Internshala  
 - Deloitte Data Analytics – Forage  
 - Cisco CCNA – Python Essentials & Networking
@@ -102,8 +102,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=konreddyhimasri&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=konreddyhimasri&theme=github-dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=konreddyhimasri&show_icons=true&theme=github_dark" width="60%" />
 </p>
 
 ---
@@ -111,6 +110,5 @@
 ## 📬 Contact Me
 
 - 📧 konreddyhimasri@gmail.com  
-- 📱 +91 9849851715  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/konreddy-himasri)  
 - 💻 [GitHub](https://github.com/konreddyhimasri)
