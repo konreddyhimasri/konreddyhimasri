@@ -99,14 +99,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=konreddyhimasri&show_icons=true&theme=github_dark" width="60%" />
-</p>
-
----
-
 ## 📬 Contact Me
 
 - 📧 konreddyhimasri@gmail.com  
