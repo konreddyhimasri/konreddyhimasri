@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Himasri Konreddy</h1>
-<h3 align="center">Aspiring Software Developer | Data Science Enthusiast | Final Year CSE @ Geethanjali College of Engineering and Technology</h3>
+<h3 align="center">Aspiring Software Developer | Data Science Enthusiast | Final Year CSE @Geethanjali College of Engineering and Technology</h3>
 
 ---
 
@@ -12,7 +12,7 @@
 
 ## 💼 About Me
 
-- 🎓 Final year B.Tech CSE student (CGPA: 9.22 Till 3-1)
+- 🎓 Final year B.Tech CSE student (CGPA: 9.22 Till 3-1 Sem)
 - 💻 Skilled in Python, Java, C, SQL, HTML, CSS, JavaScript
 - 📊 Experienced in **Machine Learning**, **Data Science**, and **Python Development**
 - 🛠️ Built several academic & internship projects across **Web**, **ML**, and **Automation**
@@ -38,8 +38,8 @@
 ## 🏢 Internships
 
 - **Cognifyz Technologies** – *Data Science Intern* (Mar–Apr 2025)  
-  → Built ML models, performed EDA, delivered insights with visualizations  
-- **CodersOne** – *Data Science Intern* (Dec 2024 – Feb 2025)  
+  → Developed machine learning models, conducted exploratory data analysis (EDA), and communicated key insights through data visualizations. 
+- **CoderOne** – *Data Science Intern* (Dec 2024 – Feb 2025)  
   → Worked on Text Summarization & Sentiment Analysis  
 - **Oasis InfoByte** – *Python Developer* (May–Jun 2024)  
   → Developed 3 projects using Python  
