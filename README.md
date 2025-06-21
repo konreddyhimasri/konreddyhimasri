@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Himasri Konreddy</h1>
-<h3 align="center">Aspiring Software Developer | Data Science Enthusiast | 
-  Final Year CSE @Geethanjali College of Engineering and Technology</h3>
+<h3 align="center">Aspiring Software Developer | Data Science Enthusiast <br> Final Year CSE @ Geethanjali College of Engineering and Technology</h3>
+
 
 ---
 
