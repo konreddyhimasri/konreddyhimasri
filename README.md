@@ -13,7 +13,7 @@
 
 ## 💼 About Me
 
-- 🎓 Final year B.Tech CSE student (CGPA: 9.22 Till 3-1 Sem)
+- 🎓 Final year B.Tech CSE student (CGPA: 9.18 Till 4-1 Sem)
 - 💻 Skilled in Python, Java, C, SQL, HTML, CSS, JavaScript
 - 📊 Experienced in **Machine Learning**, **Data Science**, and **Python Development**
 - 🛠️ Built several academic & internship projects across **Web**, **ML**, and **Automation**
@@ -80,6 +80,12 @@
 - Web Development – Internshala  
 - Deloitte Data Analytics – Forage  
 - Cisco CCNA – Python Essentials & Networking
+  
+---
+
+## 🎓📚 Paper Publication
+- Dynamic Liquidity Management: Advancing Scalable and User-Friendly Layer 2 Solutions in Blockchain, Engineering Cyber-Physical Systems and Critical Infrastructures (ECPSCI, vol. 14), Springer, ICISML, May 2025 (https://link.springer.com/chapter/10.1007/978-3-031-91798-1_20). 
+---
 
 ---
 
