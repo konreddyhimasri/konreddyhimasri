@@ -5,9 +5,9 @@
 
 ---
 
-🎯 Currently preparing for **Placements**  
+🚀 Actively seeking **SDE / Data Science opportunities**  
 💡 Passionate about applying AI/ML and programming to solve real-world problems  
-💬 Open to **Internships**, **Full-time SDE**, or **Data Science roles**
+💬 Open to Internships and Full-time roles  
 
 ---
 
