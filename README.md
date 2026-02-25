@@ -84,8 +84,11 @@
 ---
 
 ## 🎓📚 Paper Publication
-- Dynamic Liquidity Management: Advancing Scalable and User-Friendly Layer 2 Solutions in Blockchain, Engineering Cyber-Physical Systems and Critical Infrastructures (ECPSCI, vol. 14), Springer, ICISML, May 2025 (https://link.springer.com/chapter/10.1007/978-3-031-91798-1_20). 
----
+
+📄 Dynamic Liquidity Management: Advancing Scalable and User-Friendly Layer 2 Solutions in Blockchain
+Published in Engineering Cyber-Physical Systems and Critical Infrastructures (ECPSCI, Vol. 14) – Springer
+Presented at ICISML, May 2025
+🔗 https://link.springer.com/chapter/10.1007/978-3-031-91798-1_20
 
 ---
 
