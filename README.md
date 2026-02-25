@@ -54,7 +54,7 @@
 ## 🎓 Education
 
 **Geethanjali College of Engineering & Technology, Hyderabad**  
-*B.Tech in Computer Science* – CGPA: **9.22**  
+*B.Tech in Computer Science* – CGPA: **9.18**  
 *Expected Graduation:* July 2026
 
 **Sri Chaitanya Junior College, Hyderabad** – Percentage: **98.2%**  
@@ -73,19 +73,22 @@
 
 ## 📜 Certifications
 
-- Certified System Administrator & Application Developer – ServiceNow 
+- Certified System Administrator (CSA) – ServiceNow  
+- Certified Application Developer (CAD) – ServiceNow  
 - Smart Coder (DSA) – Smart Interviews  
+- Wipro TalentNext – Java Full Stack  
+- AWS Solutions Architecture Job Simulation – Forage  
+- Deloitte Australia Data Analytics Job Simulation – Forage  
 - Python Zero to Hero – GUVI  
 - Advanced Java – Oracle Academy  
 - Web Development – Internshala  
-- Deloitte Data Analytics – Forage  
-- Cisco CCNA – Python Essentials & Networking
+- Cisco CCNA – Python Essentials & Networking  
   
 ---
 
 ## 🎓📚 Paper Publication
 
-📄 Dynamic Liquidity Management: Advancing Scalable and User-Friendly Layer 2 Solutions in Blockchain
+📄 **Dynamic Liquidity Management: Advancing Scalable and User-Friendly Layer 2 Solutions in Blockchain**
 Published in Engineering Cyber-Physical Systems and Critical Infrastructures (ECPSCI, Vol. 14) – Springer
 Presented at ICISML, May 2025
 🔗 https://link.springer.com/chapter/10.1007/978-3-031-91798-1_20
