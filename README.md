@@ -25,6 +25,7 @@
 
 | Project | Description |
 |--------|-------------|
+🌍 [LinguaBrief – AI Powered Summarizer & Translator](https://github.com/konreddyhimasri/LinguaBrief-AI-powered-Summarization-and-Translator) | AI-powered platform for text summarization and multilingual translation using Python, ML models, and Flask |
 | 📝 [Text Summarizer](https://github.com/konreddyhimasri/text-summarizer) | NLP-based app to summarize large text into short, meaningful content |
 | 💬 [Sentiment Analysis](https://github.com/konreddyhimasri/sentiment-analysis) | Classifies sentiments (Positive/Negative/Neutral) using ML |
 | 🌤️ [Weather App](https://github.com/konreddyhimasri/weather-app) | Flask-based app showing real-time weather data |
